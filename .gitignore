@@ -1,0 +1,24 @@
+# Environment files
+.env
+**/.env
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Node
+node_modules/
+
+# IDE
+.vscode/
+
+# Build
+dist/
+build/
+
+# Generated files
+backend/faiss/
+generated_resumes/
+uploads/
