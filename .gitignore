@@ -2,6 +2,11 @@
 .env
 **/.env
 
+# Generated files
+backend/faiss/
+generated_resumes/
+uploads/
+
 # Python
 venv/
 .venv/
@@ -17,8 +22,3 @@ node_modules/
 # Build
 dist/
 build/
-
-# Generated files
-backend/faiss/
-generated_resumes/
-uploads/
