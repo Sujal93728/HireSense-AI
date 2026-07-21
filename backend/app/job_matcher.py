@@ -1,13 +1,20 @@
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy as np
 
-model = SentenceTransformer("all-MiniLM-L6-v2")
+_model = None
+
+def get_model():
+    global _model
+    if _model is None:
+        _model = SentenceTransformer("all-MiniLM-L6-v2")
+    return _model
 
 
 def calculate_match(resume_text, job_description):
     if not resume_text or not job_description:
         return 0
+
+    model = get_model()
 
     embeddings = model.encode(
         [resume_text, job_description]
