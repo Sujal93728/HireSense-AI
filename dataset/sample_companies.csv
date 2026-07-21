@@ -1,0 +1,101 @@
+company_id,name,description,company_size,state,country,city,zip_code,address,url
+1009,IBM,"At IBM, we do more than work. We create. We create as technologists, developers, and engineers. We create with our partners. We create with our competitors. If you're searching for ways to make the world work better through technology and infrastructure, software and consulting, then we want to work with you.
+
+We're here to help every creator turn their ""what if"" into what is. Let's create something that will change everything.",7.0,NY,US,"Armonk, New York",10504,International Business Machines Corp.,https://www.linkedin.com/company/ibm
+1016,GE HealthCare,"Every day millions of people feel the impact of our intelligent devices, advanced analytics and artificial intelligence. As a leading global medical technology and digital solutions innovator, GE HealthCare enables clinicians to make faster, more informed decisions through intelligent devices, data analytics, applications and services, supported by its Edison intelligence platform.
+
+With over 100 years of healthcare industry experience and around 50,000 employees globally, the company operates at the center of an ecosystem working toward precision health, digitizing healthcare, helping drive productivity and improve outcomes for patients, providers, health systems and researchers around the world.
+
+We embrace a culture of respect, transparency, integrity and diversity and we work to create a world where healthcare has no limits.",7.0,0,US,Chicago,0,-,https://www.linkedin.com/company/gehealthcare
+1021,GE Power,"GE Power, part of GE Vernova, is a world energy leader that provides technology, solutions and services across the entire energy value chain from the point of generation to consumption. Powering more than a third of the world, it serves customers in more than 150 countries.",7.0,NY,US,Schenectady,12345,1 River Road,https://www.linkedin.com/company/gepower
+1025,Hewlett Packard Enterprise,"Official LinkedIn of Hewlett Packard Enterprise, the global edge-to-cloud company. Sharing our passion and purpose through technology and innovation. ",7.0,Texas,US,Houston,77389,1701 E Mossy Oaks Rd Spring,https://www.linkedin.com/company/hewlett-packard-enterprise
+1028,Oracle,"We’re a cloud technology company that provides organizations around the world with computing infrastructure and software to help them innovate, unlock efficiencies and become more effective. We also created the world’s first – and only – autonomous database to help organize and secure our customers’ data.
+ 
+Oracle Cloud Infrastructure offers higher performance, security, and cost savings. It is designed so businesses can move workloads easily from on-premises systems to the cloud, and between cloud and on-premises and other clouds. Oracle Cloud applications provide business leaders with modern applications that help them innovate, attain sustainable growth, and become more resilient. 
+ 
+The work we do is not only transforming the world of business--it's helping defend governments, and advance scientific and medical research. From nonprofits to companies of all sizes, millions of people use our tools to streamline supply chains, make HR more human, quickly pivot to a new financial plan, and connect data and people around the world.  
+
+At work, we embrace diversity, encourage personal and professional growth, and celebrate a global team of passionate people developing innovative technologies that help people and companies tackle real-world problems head-on.
+
+If you’d like to join us, please visit our Careers page: https://www.oracle.com/corporate/careers/
+
+For investor news, SEC filings, and financial information about Oracle (NYSE:ORCL), please visit https://investor.oracle.com/home/.
+ 
+Follow us on Twitter: https://twitter.com/oracle 
+Like our page on Facebook: https://www.facebook.com/Oracle/ 
+Follow us on Instagram: https://www.instagram.com/oracle/
+",7.0,Texas,US,Austin,78741,2300 Oracle Way,https://www.linkedin.com/company/oracle
+1038,Deloitte,"Deloitte drives progress. Our firms around the world help clients become leaders wherever they choose to compete. Deloitte invests in outstanding people of diverse talents and backgrounds and empowers them to achieve more than they could elsewhere. Our work combines advice with action and integrity. We believe that when our clients and society are stronger, so are we. 
+
+Deloitte refers to one or more of Deloitte Touche Tohmatsu Limited (“DTTL”), its global network of member firms, and their related entities. DTTL (also referred to as “Deloitte Global”) and each of its member firms are legally separate and independent entities. DTTL does not provide services to clients. Please see www.deloitte.com/about to learn more.
+
+The content on this page contains general information only, and none of Deloitte Touche Tohmatsu Limited, its member firms, or their related entities (collectively the “Deloitte Network”) is, by means of this publication, rendering professional advice or services. Before making any decision or taking any action that may affect your finances or your business, you should consult a qualified professional adviser. No entity in the Deloitte Network shall be responsible for any loss whatsoever sustained by any person who relies on content from this page.",7.0,0,OO,Worldwide,0,Worldwide,https://www.linkedin.com/company/deloitte
+1043,Siemens,"Siemens is a technology company focused on industry, infrastructure, transport, and healthcare. From more resource-efficient factories, resilient supply chains, and smarter buildings and grids, to cleaner and more comfortable transportation as well as advanced healthcare, the company creates technology with purpose adding real value for customers. By combining the real and the digital worlds, Siemens empowers its customers to transform their industries and markets, helping them to transform the everyday for billions of people. Siemens also owns a majority stake in the publicly listed company Siemens Healthineers, a globally leading medical technology provider shaping the future of healthcare. In addition, Siemens holds a minority stake in Siemens Energy, a global leader in the transmission and generation of electrical power.
+In fiscal 2022, which ended on September 30, 2022, the Siemens Group generated revenue of €72.0 billion and net income of €4.4 billion. As of September 30, 2022, the company had around 311,000 employees worldwide. Further information is available at www.siemens.com.",7.0,0,DE,Munich,80333,Werner-von-Siemens-Straße 1,https://www.linkedin.com/company/siemens
+1044,PwC,"At PwC, our purpose is to build trust in society and solve important problems. We’re a network of firms in 152 countries with over 327,000 people who are committed to delivering quality in assurance, advisory and tax services. Find out more and tell us what matters to you by visiting us at www.pwc.com.  PwC refers to the PwC network and/or one or more of its member firms, each of which is a separate legal entity.
+
+Content on this page has been prepared for general information only and is not intended to be relied upon as accounting, tax or professional advice. Please reach out to your advisors for specific advice.",7.0,0,GB,0,0,1 Embankment Place,https://www.linkedin.com/company/pwc
+1060,Ericsson,"Our purpose 
+To create connections that make the unimaginable possible.
+
+Our vision
+A world where limitless connectivity improves lives, redefines business and pioneers a sustainable future.
+
+Our values
+Perseverance, professionalism, respect and integrity.
+
+The future is a place for purpose & vision – ours are clear, and we invite partners, customers and consumers to join us in our journey. 
+
+For a brighter future. For all. Let's #ImaginePossible",7.0,Stockholm,SE,Kista,0,Torshamnsgatan 21,https://www.linkedin.com/company/ericsson
+1063,Cisco,"Cisco (NASDAQ: CSCO) enables people to make powerful connections--whether in business, education, philanthropy, or creativity. Cisco hardware, software, and service offerings are used to create the Internet solutions that make networks possible--providing easy access to information anywhere, at any time. 
+
+Cisco was founded in 1984 by a small group of computer scientists from Stanford University. Since the company's inception, Cisco engineers have been leaders in the development of Internet Protocol (IP)-based networking technologies. Today, with more than 71,000 employees worldwide, this tradition of innovation continues with industry-leading products and solutions in the company's core development areas of routing and switching, as well as in advanced technologies such as home networking, IP telephony, optical networking, security, storage area networking, and wireless technology. In addition to its products, Cisco provides a broad range of service offerings, including technical support and advanced services. 
+
+Cisco sells its products and services, both directly through its own sales force as well as through its channel partners, to large enterprises, commercial businesses, service providers, and consumers.",7.0,CA,US,San Jose,95134,Tasman Way,https://www.linkedin.com/company/cisco
+1068,JPMorgan Chase & Co.,"For over 200 years, JPMorgan Chase & Co has provided innovative financial solutions for consumers, small businesses, corporations, governments and institutions around the world.
+
+Today, we're a leading global financial services firm with operations servicing clients in more than 100 countries.
+
+Whether we are serving customers, helping small businesses, or putting our skills to work with partners, we strive to identify issues and propose solutions that will propel the future and strengthen both our clients and our communities.
+
+© 2017 JPMorgan Chase & Co.  JPMorgan Chase is an equal opportunity and affirmative action employer Disability/Veteran.
+ ",7.0,NY,US,New York,10017-2014,270 Park Avenue,https://www.linkedin.com/company/jpmorganchase
+1103,Verizon,"You want more out of a career. A place to share your ideas freely — even if they’re daring or different. Where the true you can shine through. A space to create and connect with people who truly care. And where there’s the flexibility to focus on the passions that matter most.
+
+Our network is built by people like you. We’re a human network that reaches across the globe and works behind the scenes. We anticipate, lead, and believe that listening is where learning begins. In crisis and in celebration, we come together—lifting up our communities and striving to make an impact to move the world forward.
+
+So, if you're fueled by purpose, and powered by persistence, explore a career with us. Here, you’ll discover the rigor it takes to make a difference and the fulfillment that comes with living the #NetworkLife.",7.0,NJ,US,Basking Ridge,07920-1097,One Verizon Way,https://www.linkedin.com/company/verizon
+1115,SAP,"At SAP, our purpose is to help the world run better and improve people’s lives. Our promise is to innovate to help our customers run at their best. SAP is committed to helping every customer become a best-run business. We engineer solutions to fuel innovation, foster equality, and spread opportunity across borders and cultures. Together, with our customers and partners, we can transform industries, grow economies, lift up societies, and sustain our environment. #TheBestRun
+
+SAP privacy statement for followers: www.sap.com/sps",7.0,BW,DE,Walldorf,69190,Dietmar-Hopp-Allee 16,https://www.linkedin.com/company/sap
+1116,Procter & Gamble,"P&G was founded more than 185 years ago as a soap and candle company. Today, we’re one of the world’s largest consumer goods companies and home to iconic, trusted brands, including Always®, Charmin®, Braun®, Fairy®, Febreze®, Gillette®, Head & Shoulders®, Oral B®, Pantene®, Pampers®, Tide®, and Vicks®. 
+ 
+The design, development, growth and success of these products—and many more—is thanks to the innovative and insightful minds of our people. From Day 1, you’ll help make everyday life easier for our 5 billion consumers. 
+ 
+There is no single equation for success at P&G, because no two P&G people or careers are alike. Just as we strive to deliver a superior consumer experience, we aim to deliver a superior employee value equation as well. With our large global footprint, there are many opportunities to work with P&G in multiple locations. We offer opportunities in approximately 70 countries and continually aim to attract, reward and advance the finest people in the world. 
+ 
+Here, we want you to get your career off to a fast start. That's why we don't have any rotational development programs or gradual ramping-up periods: you’ll be able—and encouraged—to dive right in from Day 1. Join us and help make life better through meaningful work that makes an impact from Day 1.",7.0,Ohio,US,Cincinnati,45202,2 P&G Plaza,https://www.linkedin.com/company/procter-and-gamble
+1123,Bank of America,"Bank of America is one of the world's largest financial institutions, serving individuals, small- and middle-market businesses and large corporations with a full range of banking, investing, asset management and other financial and risk management products and services. The company serves approximately 56 million U.S. consumer and small business relationships. It is among the world's leading wealth management companies and is a global leader in corporate and investment banking and trading.
+
+This LinkedIn company page is moderated. For more information, please visit: https://bit.ly/32FDdQr.
+
+For account issues, please visit: https://bit.ly/2GeTIeP.",7.0,NC,US,Charlotte,28202,100 North Tryon Street,https://www.linkedin.com/company/bank-of-america
+1185,Pfizer,"Breakthroughs That Change Patients' Lives: Pfizer is a leading research-based biopharmaceutical company. We apply science and our global resources to deliver innovative therapies that extend and significantly improve lives. Every day, Pfizer colleagues work across developed and emerging markets to advance wellness, prevention, treatments and cures that challenge the most feared diseases of our time.To learn more, visit www.pfizer.com.  
+
+For additional information on our guidelines, please visit  http://www.pfizer.com/community-guidelines
+
+Beware of scams from individuals, organizations and Internet sites claiming to represent Pfizer in recruitment activities. A formal Pfizer recruitment process is required for all authorized positions posted by Pfizer prior to issuing an offer of employment. This Pfizer process includes an interview and never requires payment or fees from job applicants. If you receive a suspicious email message or phone call about recruiting on behalf of Pfizer, do not provide any personal information or pay any fees. Interested candidates should apply to current openings through this Pfizer website. Pfizer accepts no responsibility for any costs or charges incurred as a result of fraudulent activity.",7.0,New York,US,New York,10017,New York,https://www.linkedin.com/company/pfizer
+1241,HSBC,"Opening up a world of opportunity for our customers, investors, ourselves and the planet.
+
+We're a financial services organisation that serves more than 40 million customers, ranging from individual savers and investors to some of the world’s biggest companies and governments. Our network covers 63 countries and territories, and we’re here to use our unique expertise, capabilities, breadth and perspectives to open up a world of opportunity for our customers. 
+
+HSBC is listed on the London, Hong Kong, New York, Paris and Bermuda stock exchanges.
+
+To view our social media terms and conditions please visit the following webpage: http://www.hsbc.com/social-TandCs",7.0,0,GB,London,E14 5HQ,8 Canada Square,https://www.linkedin.com/company/hsbc
+1248,Unilever,"Be part of the world’s most successful, purpose-led business. Work with brands that are well-loved around the world, that improve the lives of our consumers and the communities around us. We promote innovation, big and small, to make our business win and grow; and we believe in business as a force for good. Unleash your curiosity, challenge ideas and disrupt processes; use your energy to make this happen. Our brilliant business leaders and colleagues provide mentorship and inspiration, so you can be at your best. 
+
+Our portfolio ranges from nutritionally balanced foods to indulgent ice creams, affordable soaps, luxurious shampoos and everyday household care products. We produce world-leading brands including Lipton, Knorr, Dove, Axe, Hellmann’s and Omo, alongside trusted local names and innovative-forward thinking brands like Ben & Jerry’s, The Dollar Shave Club and Dermalogica. 
+
+Every individual here can bring their purpose to life through their work. Join us and you’ll be surrounded by inspiring leaders and supportive peers. Among them, you’ll channel your purpose, bring fresh ideas to the table, and simply be you. As you work to make a real impact on the business and the world, we’ll work to help you become a better you.  ",7.0,London,GB,Blackfriars,EC4Y 0DY,100 Victoria Embankment,https://www.linkedin.com/company/unilever
+1254,PlayStation,"PlayStation has been at the forefront of interactive and digital entertainment since the debut of our first console in 1994. Our products delight millions across the world through incredible games, cutting edge experiences and access to many types of media.
+

@@ -1,0 +1,101 @@
+job_id,inferred,type
+3690843087,0,Medical insurance
+3690843087,0,Dental insurance
+3690843087,0,401(k)
+3690843087,0,Paid maternity leave
+3690843087,0,Disability insurance
+3690843087,0,Vision insurance
+3691763971,1,Dental insurance
+3691763971,1,Disability insurance
+3691763971,1,401(k)
+3691775263,0,Medical insurance
+3691775263,0,Vision insurance
+3691775263,0,Dental insurance
+3691775263,0,401(k)
+3691775263,0,Tuition assistance
+3691775263,0,Disability insurance
+3691792844,0,Medical insurance
+3691792844,0,401(k)
+3691792844,0,Pension plan
+3691792844,0,Dental insurance
+3691793575,1,Medical insurance
+3691794313,1,Vision insurance
+3691794313,1,401(k)
+3691794313,1,Dental insurance
+3691794313,1,Medical insurance
+3691795389,1,Vision insurance
+3691795389,1,401(k)
+3691796226,0,Medical insurance
+3691796226,0,Vision insurance
+3691796226,0,Dental insurance
+3691796226,0,401(k)
+3691797979,1,Medical insurance
+3691799471,1,401(k)
+3691799471,1,Medical insurance
+3691799471,1,Disability insurance
+3691799472,0,Medical insurance
+3691799472,0,Vision insurance
+3691799472,0,Dental insurance
+3691799472,0,401(k)
+3691799472,0,Paid maternity leave
+3691799472,0,Paid paternity leave
+3691799472,0,Tuition assistance
+3691799472,0,Disability insurance
+3692300220,0,Medical insurance
+3692300220,0,Vision insurance
+3692300220,0,Dental insurance
+3692300220,0,401(k)
+3692300372,1,401(k)
+3692300372,1,Vision insurance
+3692300409,0,Medical insurance
+3692300409,0,Vision insurance
+3692300409,0,Dental insurance
+3692300409,0,401(k)
+3692300409,0,Paid maternity leave
+3692300409,0,Paid paternity leave
+3692300409,0,Tuition assistance
+3692300409,0,Disability insurance
+3692301165,1,Pension plan
+3692301169,0,Medical insurance
+3692301169,0,Vision insurance
+3692301169,0,Dental insurance
+3692303024,0,Medical insurance
+3692303024,0,Vision insurance
+3692303024,0,Dental insurance
+3692303024,0,401(k)
+3696355954,0,Medical insurance
+3696355954,0,Vision insurance
+3696355954,0,Dental insurance
+3696355954,0,401(k)
+3696362362,1,Disability insurance
+3696362362,1,401(k)
+3696368461,1,401(k)
+3696369309,1,401(k)
+3696371262,1,401(k)
+3696372105,1,401(k)
+3696373506,1,Medical insurance
+3696373506,1,401(k)
+3696375254,0,Medical insurance
+3696375254,0,Vision insurance
+3696375254,0,Dental insurance
+3696375254,0,Disability insurance
+3696388859,1,Medical insurance
+3696388859,1,401(k)
+3696388859,1,Disability insurance
+3696394454,1,401(k)
+3696394454,1,Disability insurance
+3696396357,0,Medical insurance
+3696396357,0,Vision insurance
+3696396357,0,Dental insurance
+3696396357,0,401(k)
+3696396361,1,401(k)
+3696396361,1,Disability insurance
+3699944307,0,Medical insurance
+3699944307,0,Dental insurance
+3699944307,0,401(k)
+3699944307,0,Disability insurance
+3699947010,0,Medical insurance
+3699947010,0,Vision insurance
+3699947010,0,Dental insurance
+3699947010,0,401(k)
+3699953637,0,Medical insurance

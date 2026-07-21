@@ -22,3 +22,11 @@ node_modules/
 # Build
 dist/
 build/
+
+# Large datasets
+dataset/job_postings.csv
+dataset/companies.csv
+dataset/benefits.csv
+dataset/company_industries.csv
+dataset/company_specialities.csv
+dataset/employee_counts.csv
