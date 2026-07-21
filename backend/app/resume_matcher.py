@@ -4,9 +4,30 @@ import pandas as pd
 from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 
-# Load AI model only once
-model = SentenceTransformer("all-MiniLM-L6-v2")
+# ======================================================
+# Global Variables
+# ======================================================
 
+_model = None
+_jobs = None
+
+# ======================================================
+# Lazy Load SentenceTransformer
+# ======================================================
+
+def get_model():
+    global _model
+
+    if _model is None:
+        print("Loading SentenceTransformer model...")
+        _model = SentenceTransformer("all-MiniLM-L6-v2")
+
+    return _model
+
+
+# ======================================================
+# Dataset Path
+# ======================================================
 
 def get_dataset_path():
     current = os.path.dirname(os.path.abspath(__file__))
@@ -18,8 +39,9 @@ def get_dataset_path():
 
     for path in possible_paths:
         path = os.path.abspath(path)
+
         if os.path.exists(path):
-            print("Using dataset:", path)
+            print(f"Using dataset: {path}")
             return path
 
     raise FileNotFoundError("job_postings.csv not found.")
@@ -28,35 +50,64 @@ def get_dataset_path():
 DATASET_PATH = get_dataset_path()
 
 
-def match_resume(resume_text):
-    # Load dataset
-    jobs = pd.read_csv(DATASET_PATH, low_memory=False)
+# ======================================================
+# Lazy Load Dataset
+# ======================================================
 
-    jobs = jobs.fillna("")
-    jobs = jobs[jobs["description"].str.strip() != ""]
+def get_jobs():
+    global _jobs
 
-    # Faster testing (increase later if desired)
-    jobs = jobs.head(5000)
+    if _jobs is None:
+        print("Loading jobs dataset...")
+
+        jobs = pd.read_csv(
+            DATASET_PATH,
+            low_memory=False
+        )
+
+        jobs = jobs.fillna("")
+        jobs = jobs[
+            jobs["description"].str.strip() != ""
+        ]
+
+        # Reduce memory usage
+        jobs = jobs.head(5000)
+
+        _jobs = jobs
+
+    return _jobs
+
+
+# ======================================================
+# Resume Matching
+# ======================================================
+
+def match_resume(resume_text: str):
+
+    model = get_model()
+
+    jobs = get_jobs().copy()
 
     descriptions = jobs["description"].tolist()
 
-    # Encode resume
+    print("Encoding resume...")
+
     resume_embedding = model.encode(
         resume_text,
-        convert_to_tensor=False,
+        convert_to_tensor=False
     )
 
-    # Encode job descriptions
+    print("Encoding job descriptions...")
+
     job_embeddings = model.encode(
         descriptions,
         convert_to_tensor=False,
-        show_progress_bar=False,
+        show_progress_bar=False
     )
 
-    # Compute similarity
     similarities = cosine_similarity(
         [resume_embedding],
-        job_embeddings,
+        job_embeddings
     )[0]
 
     jobs["match_score"] = similarities * 100
@@ -64,7 +115,7 @@ def match_resume(resume_text):
     top_jobs = (
         jobs.sort_values(
             by="match_score",
-            ascending=False,
+            ascending=False
         )
         .head(10)
     )
@@ -75,6 +126,6 @@ def match_resume(resume_text):
             "title",
             "location",
             "description",
-            "match_score",
+            "match_score"
         ]
     ].to_dict(orient="records")
